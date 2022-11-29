@@ -4,11 +4,7 @@ date: 2022-11-29T04:36:47+00:00
 image: uploads/post-1-photo.jpg
 description: Not able to focus? Making repeated mistakes, bad decisions, and feeling
   lazy?- Learn how to discipline your thoughts. Read here...
-categories:
-- overthinking
-- thoughts
-- burden
-- productivity
+categories: []
 tags:
 - blog
 - 'post '
